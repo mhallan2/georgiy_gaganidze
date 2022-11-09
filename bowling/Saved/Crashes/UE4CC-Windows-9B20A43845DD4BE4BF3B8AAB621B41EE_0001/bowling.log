@@ -1,0 +1,1232 @@
+﻿Log file open, 11/07/22 20:31:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: bowling
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.256461
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz, GPU: AMD Radeon HD 6770M
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=pozdniy -epicuserid=c30ebdaf521447c6aac47a94ff9cf0fa -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:134][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:154][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:154][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.07-17.31.10:155][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.07-17.31.10:156][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.07-17.31.10:156][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.07-17.31.10:156][  0]LogHAL: Display: Platform has ~ 11 GB [10981457920 / 17179869184 / 11], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.07-17.31.10:156][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.07-17.31.10:156][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:156][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.07-17.31.10:157][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.07-17.31.10:158][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.07-17.31.10:158][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.07-17.31.10:159][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.07-17.31.10:159][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.07-17.31.10:159][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Engine.ini]
+[2022.11.07-17.31.10:159][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Config/Windows/Editor.ini]
+[2022.11.07-17.31.10:159][  0]LogInit: Computer: IMAC
+[2022.11.07-17.31.10:159][  0]LogInit: User: Kate
+[2022.11.07-17.31.10:159][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.11.07-17.31.10:159][  0]LogInit: High frequency timer resolution =2.636767 MHz
+[2022.11.07-17.31.10:159][  0]LogMemory: Memory total: Physical=10.2GB (11GB approx)
+[2022.11.07-17.31.10:159][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.07-17.31.10:159][  0]LogMemory: Process Physical Memory: 141.73 MB used, 141.73 MB peak
+[2022.11.07-17.31.10:159][  0]LogMemory: Process Virtual Memory: 130.11 MB used, 130.11 MB peak
+[2022.11.07-17.31.10:159][  0]LogMemory: Physical Memory: 7621.09 MB used,  2851.65 MB free, 10472.73 MB total
+[2022.11.07-17.31.10:159][  0]LogMemory: Virtual Memory: 8378881.50 MB used,  9726.33 MB free, 8388608.00 MB total
+[2022.11.07-17.31.10:179][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.07-17.31.10:199][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.07-17.31.10:200][  0]LogInit: Using OS detected language (ru-RU).
+[2022.11.07-17.31.10:200][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.11.07-17.31.10:207][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.11.07-17.31.10:208][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.11.07-17.31.10:210][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2022.11.07-17.31.10:210][  0]LogWindows: File 'shcore.dll' does not exist
+[2022.11.07-17.31.10:210][  0]LogInit: Setting process to DPI aware
+[2022.11.07-17.31.10:219][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.07-17.31.10:235][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.07-17.31.10:235][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.07-17.31.10:398][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.07-17.31.10:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.07-17.31.10:418][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.07-17.31.10:418][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.07-17.31.10:418][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6770M' (Feature Level 11_0)
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:       495/0/4980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     Description : AMD Radeon HD 6770M
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     DeviceId    : 6740
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     SubSysId    : 6740106b
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     DedicatedVideoMemory : 519282688 bytes
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     SharedSystemMemory : 5222293504 bytes
+[2022.11.07-17.31.10:428][  0]LogD3D11RHI:     AdapterLuid : 0 37168
+[2022.11.07-17.31.10:432][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.07-17.31.10:432][  0]LogD3D11RHI:     GPU DeviceId: 0x6740 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.07-17.31.10:432][  0]LogWindows: EnumDisplayDevices:
+[2022.11.07-17.31.10:432][  0]LogWindows:    0. 'AMD Radeon HD 6770M' (P:1 D:1)
+[2022.11.07-17.31.10:433][  0]LogWindows:    1. 'AMD Radeon HD 6770M' (P:0 D:0)
+[2022.11.07-17.31.10:434][  0]LogWindows:    2. 'AMD Radeon HD 6770M' (P:0 D:0)
+[2022.11.07-17.31.10:435][  0]LogWindows:    3. 'AMD Radeon HD 6770M' (P:0 D:0)
+[2022.11.07-17.31.10:436][  0]LogWindows:    4. 'AMD Radeon HD 6770M' (P:0 D:0)
+[2022.11.07-17.31.10:436][  0]LogWindows:    5. 'AMD Radeon HD 6770M' (P:0 D:0)
+[2022.11.07-17.31.10:436][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2022.11.07-17.31.10:437][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2022.11.07-17.31.10:438][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2022.11.07-17.31.10:439][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.11.07-17.31.10:439][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6770M
+[2022.11.07-17.31.10:439][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.11.07-17.31.10:439][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.11.07-17.31.10:439][  0]LogRHI: Texture pool is 346 MB (70% of 495 MB)
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     Description : AMD Radeon HD 6770M
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     DeviceId    : 6740
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     SubSysId    : 6740106b
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     DedicatedVideoMemory : 519282688 bytes
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     SharedSystemMemory : 5222293504 bytes
+[2022.11.07-17.31.10:440][  0]LogD3D11RHI:     AdapterLuid : 0 37168
+[2022.11.07-17.31.10:447][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.11.07-17.31.10:447][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.07-17.31.10:466][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2022.11.07-17.31.10:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.07-17.31.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.07-17.31.10:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.07-17.31.10:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.07-17.31.10:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.07-17.31.10:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.07-17.31.10:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.07-17.31.10:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.07-17.31.10:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.07-17.31.10:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.07-17.31.10:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.07-17.31.10:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.07-17.31.10:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.07-17.31.11:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.07-17.31.11:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.07-17.31.11:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.07-17.31.11:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.07-17.31.11:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.07-17.31.11:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.07-17.31.11:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.07-17.31.11:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.07-17.31.11:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.07-17.31.11:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.07-17.31.11:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.07-17.31.11:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.07-17.31.11:067][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.07-17.31.11:074][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.07-17.31.11:102][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.07-17.31.11:132][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.07-17.31.11:132][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Kate/Documents/Unreal Projects/bowling/Intermediate/Shaders/WorkingDirectory/1168/).
+[2022.11.07-17.31.11:132][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kate/AppData/Local/Temp/UnrealShaderWorkingDir/5D30FBD04C320EF83112E3AE98B4539C/'.
+[2022.11.07-17.31.11:132][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.07-17.31.11:132][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.07-17.31.11:132][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.07-17.31.12:410][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.07-17.31.12:506][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/Kate/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.07-17.31.12:506][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kate/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.11.07-17.31.12:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kate/Documents/Unreal Projects/bowling/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.07-17.31.12:506][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.07-17.31.12:507][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kate/Documents/Unreal Projects/bowling/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-17.31.12:507][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.07-17.31.12:534][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.07-17.31.12:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-17.31.12:535][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.07-17.31.12:540][  0]LogDerivedDataCache: Speed tests for C:/Users/Kate/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.11.07-17.31.12:540][  0]LogDerivedDataCache: Display: Performance to C:/Users/Kate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1564.37MBs, RandomWriteSpeed=226.04MBs. Assigned SpeedClass 'Local'
+[2022.11.07-17.31.12:540][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.07-17.31.12:540][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.07-17.31.12:541][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.07-17.31.12:619][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.07-17.31.12:620][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.07-17.31.12:658][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2022.11.07-17.31.13:028][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.07-17.31.13:028][  0]LogInit: Active device profile: [000000002E3B4700][000000002AB09C00 49] Windows
+[2022.11.07-17.31.13:028][  0]LogInit: Profiles: [000000002E3B4700][000000002AB09C00 49] Windows, [000000002E383700][0000000022CC2200 49] WindowsNoEditor, [000000002E3B7300][0000000022CBE380 49] WindowsServer, [000000002E380F00][0000000029A5A500 49] WindowsClient, [000000002E3B7500][0000000029A5E680 49] IOS, [000000002E36FF00][000000002C0B8800 49] iPadAir, [000000002E383B00][000000002BF64940 49] iPadAir2, [000000002E324500][000000002C0C0B80 49] IPadPro, [000000002E324600][000000002C0BCBC0 49] iPadAir3, [000000002E36C100][0000000022CD2D00 49] iPadAir4, [000000002E326C00][0000000022CDAE80 49] iPadMini2, [000000002E36E500][0000000022CDF000 49] iPadMini3, [000000002E327400][0000000022C29180 49] iPadMini4, [000000002E36CF00][0000000022C2D300 49] iPadMini5, [000000002E323E00][0000000022C355C0 49] iPhone6, [000000002E323F00][0000000022C31600 49] iPodTouch6, [000000002E3B7900][000000002D4CD8C0 49] iPhone7, [000000002E3B6100][0000000022C39900 49] iPodTouch7, [000000002E320400][000000002D4D1A80 49] iPhone5S, [000000002E327D00][000000002D4D5C00 49] iPhone6Plus, [000000002E3B7400][000000002D4D8200 49] iPhone6S, [000000002E326000][000000002D4DC380 49] iPhone6SPlus, [000000002E3B4900][000000002D4E0500 49] iPhone7Plus, [000000002E324E00][000000002D4E4680 49] iPhoneSE, [000000002E3B4200][000000002D4E8800 49] iPhone8, [000000002E326400][000000002D4EC980 49] iPhone8Plus, [000000002E3B5E00][000000002BECAB00 49] iPhoneX, [000000002E327E00][0000000022CD6C40 49] iPhoneXS, [000000002E3B5600][000000002BECED80 49] iPhoneXSMax, [000000002E326500][000000002BED2EC0 49] iPhoneXR, [000000002E3B6A00][000000002BEDB040 49] iPhone11, [000000002E327A00][000000002BEDF1C0 49] iPhone11Pro, [000000002E3B4F00][000000002BEE3340 49] iPhone11ProMax, [000000002E326300][000000002BEE74C0 49] iPhoneSE2, [000000002E3B6700][000000002BEEB640 49] iPhone12Mini, [000000002E324700][000000002BEEF7C0 49] iPhone12, [000000002E3B7100][000000002BEF3940 49] iPhone12Pro, [000000002E327500][000000002BEF7AC0 49] iPhone12ProMax, [000000002E3B4800][000000002BEFA0C0 49] iPadPro105, [000000002E325C00][000000002BEFE240 49] iPadPro129, [000000002E3B4300][000000002BF023C0 49] iPadPro97, [000000002E325D00][000000002BF06540 49] iPadPro2_129, [000000002E3B4C00][000000002BF0A6C0 49] iPad5, [000000002E327000][000000002BF0E840 49] iPad6, [000000002E3B6C00][000000002BF129C0 49] iPad7, [000000002E326E00][000000002BF16B40 49] iPad8, [000000002E3B5800][000000002BF1ACC0 49] iPadPro11, [000000002E325B00][000000002BED6E00 49] iPadPro2_11, [000000002E3B5500][000000002BF1EF40 49] iPadPro3_129, [000000002E326700][000000002BF23080 49] iPadPro4_129, [000000002E3B4100][000000002BD751C0 49] AppleTV, [000000002E326B00][000000002BD7D340 49] AppleTV4K, [000000002E3B5B00][000000002BD814C0 49] TVOS, [000000002E324900][000000002BD85640 49] Mac, [000000002E3B5700][000000002BD897C0 49] MacClient, [000000002E326F00][000000002BD8D940 49] MacNoEditor, [000000002E3B4D00][000000002BD91AC0 49] MacServer, [000000002E324300][000000002BD940C0 49] Linux, [000000002E3B6E00][000000002BD98240 49] LinuxAArch64, [000000002E325500][000000002BD9C3C0 49] LinuxNoEditor, [000000002E3B6400][000000002BDA0540 49] LinuxAArch64NoEditor, [000000002E324200][000000002BDA46C0 49] LinuxClient, [000000002E3B6D00][000000002BDA8840 49] LinuxAArch64Client, [000000002E324C00][000000002BDAC9C0 49] LinuxServer, [000000002E3B4400][000000002BDB0B40 49] LinuxAArch64Server, [000000002E325000][000000002BDB4CC0 49] Android, [000000002E36F900][000000002BDB8E40 49] Android_Low, [000000002E321B00][000000002BD78F80 49] Android_Mid, [000000002E36F000][000000002BDBD0C0 49] Android_High, [000000002E322300][000000002BDC1200 49] Android_Default, [000000002E36E000][000000002BDC5340 49] Android_Adreno4xx, [000000002E320100][000000002BDCD4C0 49] Android_Adreno5xx_Low, [000000002E36CB00][000000002BDD1640 49] Android_Adreno5xx, [000000002E321800][000000002BDD57C0 49] Android_Adreno6xx, [000000002E36D100][000000002BDD9940 49] Android_Adreno6xx_Vulkan, [000000002E320800][000000002BDDDAC0 49] Android_Mali_T6xx, [000000002E36F600][000000002BDE00C0 49] Android_Mali_T7xx, [000000002E320D00][000000002BDE4240 49] Android_Mali_T8xx, [000000002E36FC00][000000002D1F23C0 49] Android_Mali_G71, [000000002E321500][000000002D1F6540 49] Android_Mali_G72, [000000002E36FE00][000000002D1FA6C0 49] Android_Mali_G72_Vulkan, [000000002E323D00][000000002D1FE840 49] Android_Mali_G76, [000000002E36FA00][000000002D2029C0 49] Android_Mali_G76_Vulkan, [000000002E323600][000000002D206B40 49] Android_Mali_G77, [000000002E36E200][000000002D20ACC0 49] Android_Mali_G77_Vulkan, [000000002E321200][000000002D20EE40 49] Android_Mali_G78, [000000002E36CA00][000000002D212FC0 49] Android_Mali_G78_Vulkan, [000000002E323000][000000002D217140 49] Android_Mali_G710, [000000002E36D400][000000002BDC9280 49] Android_Mali_G710_Vulkan, [000000002E320700][000000002D21B3C0 49] Android_Vulkan_SM5, [000000002E36D800][000000002D21F500 49] Android_PowerVR_G6xxx, [000000002E320E00][000000002D227680 49] Android_PowerVR_GT7xxx, [000000002E36C200][000000002D22B800 49] Android_PowerVR_GE8xxx, [000000002E320600][000000002D22F980 49] Android_PowerVR_GM9xxx, [000000002E36E600][000000002D233B00 49] Android_PowerVR_GM9xxx_Vulkan, [000000002E324F00][000000002D236100 49] Android_TegraK1, [000000002E36EA00][000000002D23A280 49] Android_Unknown_Vulkan, [000000002E324D00][000000002D23E400 49] Lumin, [000000002E36D200][000000002D242580 49] Lumin_Desktop, [000000002E324B00][000000002D246700 49] HoloLens, 
+[2022.11.07-17.31.13:223][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.07-17.31.13:223][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.07-17.31.13:223][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.07-17.31.13:223][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.07-17.31.13:223][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.07-17.31.13:250][  0]LogNetVersion: bowling 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3269451236)
+[2022.11.07-17.31.13:811][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.11.07-17.31.13:899][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.07-17.31.13:906][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.11.07-17.31.13:906][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.11.07-17.31.13:906][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.07-17.31.14:200][  0]LogPython: Using Python 3.7.7
+[2022.11.07-17.31.15:039][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F058E28148AD18152E19508A043F2765 | Instance: 86C08E844839EFE7E6968EBF037D1A3E (IMAC-1168).
+[2022.11.07-17.31.15:238][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.07-17.31.15:243][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.07-17.31.15:400][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.15:400][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.15:405][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.15:408][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.15:416][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.15:423][  0]LogUProjectInfo: Found projects:
+[2022.11.07-17.31.15:429][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.15:429][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.15:429][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.15:652][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.07-17.31.15:705][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.07-17.31.15:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-17.31.15:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-17.31.15:887][  0]LogCollectionManager: Loaded 0 collections in 0.001406 seconds
+[2022.11.07-17.31.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kate/Documents/Unreal Projects/bowling/Saved/Collections/' took 0.00s
+[2022.11.07-17.31.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kate/Documents/Unreal Projects/bowling/Content/Developers/Kate/Collections/' took 0.00s
+[2022.11.07-17.31.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kate/Documents/Unreal Projects/bowling/Content/Collections/' took 0.00s
+[2022.11.07-17.31.15:916][  0]LogOcInput: OculusInput pre-init called
+[2022.11.07-17.31.16:244][  0]LogEngine: Initializing Engine...
+[2022.11.07-17.31.16:330][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.11.07-17.31.16:330][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.07-17.31.16:330][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.07-17.31.16:332][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.07-17.31.16:527][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.07-17.31.16:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.07-17.31.16:558][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.07-17.31.16:561][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.07-17.31.16:562][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.07-17.31.16:562][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.07-17.31.16:562][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-17.31.16:562][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-17.31.16:563][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-17.31.16:563][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-17.31.16:563][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.07-17.31.16:563][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.07-17.31.16:563][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.07-17.31.16:563][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-17.31.16:575][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.07-17.31.16:575][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.07-17.31.16:589][  0]LogAudioMixer: Display: Using Audio Device Динамики (USB Audio Device)
+[2022.11.07-17.31.16:592][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-17.31.16:596][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-17.31.16:596][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-17.31.16:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-17.31.16:597][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-17.31.16:597][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-17.31.16:598][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-17.31.16:598][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.07-17.31.16:598][  0]LogInit: FAudioDevice initialized.
+[2022.11.07-17.31.16:598][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.07-17.31.16:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.07-17.31.17:161][  0]LogDerivedDataCache: Saved boot cache 0.56s 94MB C:/Users/Kate/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.07-17.31.17:161][  0]LogInit: Texture streaming: Enabled
+[2022.11.07-17.31.17:182][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.11.07-17.31.17:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.07-17.31.17:188][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.07-17.31.17:193][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.07-17.31.17:233][  0]LogInit: Transaction tracking system initialized
+[2022.11.07-17.31.17:255][  0]BlueprintLog: New page: Editor Load
+[2022.11.07-17.31.17:318][  0]LocalizationService: Localization service is disabled
+[2022.11.07-17.31.17:342][  0]TimingProfiler: Initialize
+[2022.11.07-17.31.17:343][  0]TimingProfiler: OnSessionChanged
+[2022.11.07-17.31.17:343][  0]LoadingProfiler: Initialize
+[2022.11.07-17.31.17:343][  0]LoadingProfiler: OnSessionChanged
+[2022.11.07-17.31.17:343][  0]NetworkingProfiler: Initialize
+[2022.11.07-17.31.17:343][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.07-17.31.17:343][  0]MemoryProfiler: Initialize
+[2022.11.07-17.31.17:343][  0]MemoryProfiler: OnSessionChanged
+[2022.11.07-17.31.17:406][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.17:407][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.17:407][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-17.31.17:874][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.07-17.31.17:875][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.07-17.31.17:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kate/Documents/Unreal Projects/bowling/Content/' took 0.00s
+[2022.11.07-17.31.17:880][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2022.11.07-17.31.17:880][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2022.11.07-17.31.17:880][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2022.11.07-17.31.18:356][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.07-17.31.18:360][  0]SourceControl: Source control is disabled
+[2022.11.07-17.31.18:360][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.221
+[2022.11.07-17.31.18:360][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kate/Documents/Unreal Projects/bowling/Content/Bowling/Levels/bowling.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.07-17.31.18:360][  0]LightingResults: New page: Lighting Build
+[2022.11.07-17.31.18:362][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-17.31.18:362][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-17.31.18:362][  0]MapCheck: New page: Map Check
+[2022.11.07-17.31.18:362][  0]LightingResults: New page: Lighting Build
+[2022.11.07-17.31.18:371][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.07-17.31.18:374][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.07-17.31.20:105][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'bowling'.
+[2022.11.07-17.31.20:106][  0]LogAIModule: Creating AISystem for world bowling
+[2022.11.07-17.31.20:119][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.07-17.31.20:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.11.07-17.31.20:142][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.07-17.31.20:142][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,214ms to complete.
+[2022.11.07-17.31.20:142][  0]LogFileHelpers: Loading map 'bowling' took 1.782
+[2022.11.07-17.31.20:145][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.006
+[2022.11.07-17.31.20:329][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-17.31.20:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-17.31.20:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-17.31.20:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-17.31.20:387][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3822 classes and 928 folders.
+[2022.11.07-17.31.20:402][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.11.07-17.31.20:596][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-17.31.20:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-17.31.20:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.11.07-17.31.20:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000386
+[2022.11.07-17.31.20:621][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.07-17.31.20:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.07-17.31.20:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.11.07-17.31.20:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2022.11.07-17.31.20:643][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.07-17.31.20:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.07-17.31.20:643][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:643][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.11.07-17.31.20:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.11.07-17.31.20:663][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-17.31.20:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-17.31.20:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.11.07-17.31.20:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.11.07-17.31.20:676][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.07-17.31.20:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.07-17.31.20:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.11.07-17.31.20:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.11.07-17.31.20:696][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.07-17.31.20:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.07-17.31.20:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.11.07-17.31.20:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.11.07-17.31.20:721][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.07-17.31.20:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.07-17.31.20:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.11.07-17.31.20:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.11.07-17.31.20:736][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.07-17.31.20:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.07-17.31.20:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.11.07-17.31.20:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.11.07-17.31.20:767][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-17.31.20:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-17.31.20:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.11.07-17.31.20:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.11.07-17.31.20:805][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.07-17.31.20:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.07-17.31.20:805][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:805][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.11.07-17.31.20:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.11.07-17.31.20:885][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.07-17.31.20:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.07-17.31.20:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.11.07-17.31.20:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.11.07-17.31.20:909][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-17.31.20:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-17.31.20:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.11.07-17.31.20:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2022.11.07-17.31.20:934][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-17.31.20:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-17.31.20:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.11.07-17.31.20:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.11.07-17.31.20:943][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-17.31.20:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-17.31.20:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:944][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.11.07-17.31.20:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2022.11.07-17.31.20:971][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.07-17.31.20:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.07-17.31.20:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.11.07-17.31.20:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.11.07-17.31.20:997][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-17.31.20:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.20:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-17.31.20:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.20:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.11.07-17.31.20:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.11.07-17.31.21:009][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.07-17.31.21:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.07-17.31.21:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.11.07-17.31.21:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2022.11.07-17.31.21:026][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-17.31.21:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-17.31.21:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.11.07-17.31.21:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2022.11.07-17.31.21:041][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-17.31.21:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-17.31.21:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.11.07-17.31.21:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.11.07-17.31.21:105][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-17.31.21:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-17.31.21:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.11.07-17.31.21:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.11.07-17.31.21:174][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-17.31.21:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-17.31.21:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.11.07-17.31.21:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.11.07-17.31.21:277][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-17.31.21:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-17.31.21:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.11.07-17.31.21:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.11.07-17.31.21:322][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.07-17.31.21:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.07-17.31.21:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.11.07-17.31.21:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.11.07-17.31.21:360][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-17.31.21:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-17.31.21:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.11.07-17.31.21:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.11.07-17.31.21:672][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-17.31.21:672][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:672][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-17.31.21:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.11.07-17.31.21:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.11.07-17.31.21:706][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.07-17.31.21:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-17.31.21:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.07-17.31.21:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.07-17.31.21:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.11.07-17.31.21:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.11.07-17.31.24:762][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.11.07-17.31.24:765][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.11.07-17.31.24:839][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.07-17.31.24:865][  0]LogSlate: Took 0.025018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.07-17.31.24:867][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.07-17.31.25:099][  0]LogRenderer: Reallocating scene render targets to support 1460x732 Format 10 NumSamples 1 (Frame:1).
+[2022.11.07-17.31.25:365][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.11.07-17.31.25:365][  0]LogLoad: (Engine Initialization) Total time: 17.23 seconds
+[2022.11.07-17.31.25:365][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.07-17.31.25:383][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2022.11.07-17.31.25:383][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2022.11.07-17.31.25:383][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2022.11.07-17.31.25:427][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.07-17.31.25:452][  1]LogAssetRegistry: Asset discovery search completed in 12.7948 seconds
+[2022.11.07-17.31.25:460][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.07-17.31.43:921][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:921][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:922][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:922][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:922][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:922][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:923][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:923][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:923][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:923][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:924][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:924][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:924][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:925][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:925][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:925][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:925][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:926][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:926][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:926][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:926][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:927][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:927][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:927][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:928][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:928][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:928][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:928][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:929][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Unable to load Default__BP_PHISM_MeshesRandom_C with outer Package /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom because its class does not exist
+[2022.11.07-17.31.43:930][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:931][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:931][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:931][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:931][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:931][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:932][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:932][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:933][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:933][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:933][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:933][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:934][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:934][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:934][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:934][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:936][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:937][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:937][205]LogLinker: Warning: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:937][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:937][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:938][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by BP_PHISM_MeshesRandom
+[2022.11.07-17.31.43:938][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:938][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by BP_PHISM_MeshesRandom
+[2022.11.07-17.31.43:939][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:939][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:941][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:942][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_CallFunction_14
+[2022.11.07-17.31.43:942][205]LogBlueprint: Warning: FMemberReference::ResolveMember (SetInstanceTemporalValues) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:942][205]LogBlueprint: Warning: FMemberReference::ResolveMember (SetInstanceTemporalValues) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:942][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:942][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_CallFunction_3
+[2022.11.07-17.31.43:942][205]LogBlueprint: Warning: FMemberReference::ResolveMember (LineTracingForPlacement) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:942][205]LogBlueprint: Warning: FMemberReference::ResolveMember (LineTracingForPlacement) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:943][205]LogBlueprint: Warning: FMemberReference::ResolveMember (Define Placement Style) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:943][205]LogBlueprint: Warning: FMemberReference::ResolveMember (Define Placement Style) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:943][205]LogBlueprint: Warning: FMemberReference::ResolveMember (Spawn Instances) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:943][205]LogBlueprint: Warning: FMemberReference::ResolveMember (Spawn Instances) bSelfContext == true, but no scope supplied!
+[2022.11.07-17.31.43:943][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:943][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_CallParentFunction_0
+[2022.11.07-17.31.43:944][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:944][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_EnumEquality_0
+[2022.11.07-17.31.43:945][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:945][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:945][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros.BP_PHISM_Macros:Add Vertical Location Referenced by K2Node_MacroInstance_0
+[2022.11.07-17.31.43:946][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:946][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros.BP_PHISM_Macros Referenced by K2Node_MacroInstance_0
+[2022.11.07-17.31.43:946][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:946][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros.BP_PHISM_Macros:Get Random HISM Referenced by K2Node_MacroInstance_4
+[2022.11.07-17.31.43:947][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros': Can't find file.
+[2022.11.07-17.31.43:947][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Macros.BP_PHISM_Macros Referenced by K2Node_MacroInstance_4
+[2022.11.07-17.31.43:947][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:948][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_Select_10
+[2022.11.07-17.31.43:948][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:948][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:948][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:949][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_Select_11
+[2022.11.07-17.31.43:949][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:949][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:950][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:950][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_0
+[2022.11.07-17.31.43:950][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:951][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:951][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_1
+[2022.11.07-17.31.43:951][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:951][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:951][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_2
+[2022.11.07-17.31.43:951][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:952][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:952][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_3
+[2022.11.07-17.31.43:952][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:952][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:952][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_VariableGet_302
+[2022.11.07-17.31.43:953][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:953][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_302
+[2022.11.07-17.31.43:953][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:953][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:953][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_319
+[2022.11.07-17.31.43:953][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:954][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_320
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:954][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_339
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:954][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_357
+[2022.11.07-17.31.43:954][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:955][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:955][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_5
+[2022.11.07-17.31.43:955][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:955][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_16
+[2022.11.07-17.31.43:956][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:956][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:956][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_21
+[2022.11.07-17.31.43:957][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:957][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_2224
+[2022.11.07-17.31.43:957][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:957][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:957][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_2225
+[2022.11.07-17.31.43:957][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:957][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:958][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master.BP_PHISM_Master_C Referenced by K2Node_VariableGet_3
+[2022.11.07-17.31.43:958][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:958][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_32
+[2022.11.07-17.31.43:958][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:958][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_34
+[2022.11.07-17.31.43:959][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:959][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master.BP_PHISM_Master_C Referenced by K2Node_VariableGet_36
+[2022.11.07-17.31.43:959][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:959][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_37
+[2022.11.07-17.31.43:959][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:960][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:960][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master.BP_PHISM_Master_C Referenced by K2Node_VariableGet_5
+[2022.11.07-17.31.43:960][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:960][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master.BP_PHISM_Master_C Referenced by K2Node_VariableGet_6
+[2022.11.07-17.31.43:961][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:961][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_VariableGet_8
+[2022.11.07-17.31.43:961][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:961][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_8
+[2022.11.07-17.31.43:961][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:961][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master': Can't find file.
+[2022.11.07-17.31.43:961][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_Master.BP_PHISM_Master_C Referenced by K2Node_VariableGet_9
+[2022.11.07-17.31.43:962][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType': Can't find file.
+[2022.11.07-17.31.43:962][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/Enum_PHISM_PlacementType.Enum_PHISM_PlacementType Referenced by K2Node_VariableGet_239
+[2022.11.07-17.31.43:962][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:962][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_239
+[2022.11.07-17.31.43:962][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:963][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:963][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_2479
+[2022.11.07-17.31.43:963][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:963][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:963][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by K2Node_VariableGet_2543
+[2022.11.07-17.31.43:963][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.43:963][205]LogLinker: Warning: [AssetLog] C:\Users\Kate\Documents\Unreal Projects\bowling\Content\Bowling\Blueprints\BP_PHISM_MeshesRandom.uasset: Failed to load '/Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster': Can't find file.
+[2022.11.07-17.31.43:964][205]LoadErrors: Failed to load /Game/PHISMTools/Blueprints/Lib/BP_PHISM_MeshesMaster.BP_PHISM_MeshesMaster_C Referenced by PackageMetaData
+[2022.11.07-17.31.43:964][205]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom_C
+[2022.11.07-17.31.44:076][205]LogSlate: Took 0.032143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-17.31.44:275][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bowling/Blueprints/BP_PHISM_MeshesRandom.BP_PHISM_MeshesRandom
+[2022.11.07-17.31.54:005][205]LogSlate: Window 'Message' being destroyed
+[2022.11.07-17.31.54:019][205]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2022.11.07-17.31.54:504][205]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.11.07-17.31.54:504][205]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.11.07-17.31.55:282][205]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 126 classes and 0 folders.
+[2022.11.07-17.31.55:937][205]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.07-17.31.56:397][205]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.459 s
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: 
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (BP_PHISM_MeshesRandom) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: Stack: 
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec46fef1f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec454908d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec4549a33 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec45498cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b6d816 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b97199 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b6de52 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3ddd078 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3e18d17 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec4b3b017 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec4a33edb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3df38fe UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:397][205]LogOutputDevice: Error: [Callstack] 0x000007fec3def00a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3def705 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3bf9b58 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3beeab0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3c1ca17 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3cd26af UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec3cd2c88 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec108ffd6 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fab901 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fac1bd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fabeea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feabd560cd UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feabd562f0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feabd42632 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec13cd63d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec138ae40 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec12edd7c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec12aad97 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec1218944 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec12f8ca7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fec12edf6b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fee7632758 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fee76acad7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fee7696203 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007fee7689319 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feed32bfff UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feed3192b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feed32e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x000007feed314410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.31.56:398][205]LogOutputDevice: Error: [Callstack] 0x0000000077529bbd USER32.dll!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x00000000775298c2 USER32.dll!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000007feed32fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f3d7621 UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f0fcc UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f10ba UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f40dd UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f405984 UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000013f40853a UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x00000000774059cd kernel32.dll!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: [Callstack] 0x000000007763a561 ntdll.dll!UnknownFunction []
+[2022.11.07-17.31.56:399][205]LogOutputDevice: Error: 
+[2022.11.07-17.31.56:403][205]LogStats:                SubmitErrorReport -  0.000 s
+[2022.11.07-17.32.07:897][205]LogStats:                    SendNewReport - 11.494 s
+[2022.11.07-17.32.07:897][205]LogStats:             FDebug::EnsureFailed - 11.960 s
+[2022.11.07-17.32.07:914][205]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.07-17.32.07:962][205]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.048 s
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: 
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (BP_PHISM_MeshesRandom) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: Stack: 
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec46ffd1f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec45497df UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec4549a33 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec45498cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b6d816 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b97199 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3b6de52 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3ddd078 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3e18d17 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec4b3b017 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec4a33edb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3df38fe UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3def00a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3def705 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3bf9b58 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3beeab0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3c1ca17 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3cd26af UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec3cd2c88 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec108ffd6 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fab901 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fac1bd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec6fabeea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007feabd560cd UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007feabd562f0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007feabd42632 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec13cd63d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec138ae40 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec12edd7c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec12aad97 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec1218944 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec12f8ca7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fec12edf6b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fee7632758 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fee76acad7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fee7696203 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.32.07:962][205]LogOutputDevice: Error: [Callstack] 0x000007fee7689319 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000007feed32bfff UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000007feed3192b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000007feed32e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000007feed314410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x0000000077529bbd USER32.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x00000000775298c2 USER32.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000007feed32fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f3d7621 UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f0fcc UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f10ba UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f3f40dd UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f405984 UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000013f40853a UE4Editor.exe!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x00000000774059cd kernel32.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: [Callstack] 0x000000007763a561 ntdll.dll!UnknownFunction []
+[2022.11.07-17.32.07:963][205]LogOutputDevice: Error: 
